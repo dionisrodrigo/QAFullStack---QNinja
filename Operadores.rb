@@ -19,5 +19,5 @@ puts total = v1 % v2
 #v1 / v2
 
 if v1 % 2 == 0
-  puts "entrou no laco"
+  puts "entrou no laco testando o if"
 end

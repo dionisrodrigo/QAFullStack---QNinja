@@ -3,3 +3,6 @@ def ola
 end
 
 ola
+
+def method_name
+end

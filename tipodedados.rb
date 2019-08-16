@@ -2,17 +2,17 @@
 
 #-- tipo de dados
 
-produto = 'macbook air'
+produto = "macbook air"
 preco = 590.89
 quantidade = 50
 disponivel = true
 
-
 puts produto
 puts preco
 puts quantidade
-puts disponivel 
+puts disponivel
 
+quantidade = 100
 
 puts produto.class
 puts preco.class
