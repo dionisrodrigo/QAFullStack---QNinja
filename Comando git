@@ -1,0 +1,11 @@
+* Criando um repositório no git por linha de comando 
+    echo "# QAFullStack---QNinja" >> README.md
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git remote add origin https://github.com/dionisrodrigo/QAFullStack---QNinja.git
+    git push -u origin master
+
+* Push para uma repositorio já existente
+    git remote add origin https://github.com/dionisrodrigo/QAFullStack---QNinja.git
+    git push -u origin master
